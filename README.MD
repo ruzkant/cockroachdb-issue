@@ -40,8 +40,8 @@ java -jar target/cockroach-issue.jar
 ## Different scenarios:
 
 The command line arguments are:
-# boolean: delay after first query
-# boolean: delay after create statement
+1. boolean: delay after first query
+1. boolean: delay after create statement
 
 
 ### 1. Hangs
